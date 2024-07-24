@@ -13,21 +13,21 @@ const data = {
             price: 14999,
         },
         {
-            id: 2,  // Change id to a unique value for each product
+            id: 2,  
             img: img2,
             title: 'Crossbow',
             desc: '',
             price: 9999,
         },
         {
-            id: 3,  // Change id to a unique value for each product
+            id: 3,
             img: img3,
             title: 'Nunchaku',
             desc: '',
             price: 2500,
         },
         {
-            id: 4,  // Change id to a unique value for each product
+            id: 4,  
             img: img4,
             title: 'Parallettes ',
             desc: '',
